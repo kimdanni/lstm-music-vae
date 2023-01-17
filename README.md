@@ -97,3 +97,4 @@ Follow me on [Linkedin](https://www.linkedin.com/in/khamiesw/)!
 
 ![](https://img.shields.io/github/license/khamies/LSTM-Language-Generator)
 
+# lstm-music-vae
